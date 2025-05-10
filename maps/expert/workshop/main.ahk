@@ -8,7 +8,6 @@ WORKSHOP_DATA := Map(
     "easy", [WorkshopEasy, ""],
     "impoppable", [WorkshopImpoppable, "benjamin"],
     "hard", [WorkshopHard, "benjamin"],
-    ; commenting out alternate for now. should work with dc, untested with normal
-    ; "alternate", [WorkshopAlternate, "benjamin"],
+    "alternate", [WorkshopAlternate, "benjamin"],
     "chimps", [WorkshopChimps, "gwendolin"],
 )
